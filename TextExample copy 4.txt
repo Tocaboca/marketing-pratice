@@ -1,0 +1,4 @@
+Here is a text file
+This has a number of lines
+Its a good day to write text
+Files
